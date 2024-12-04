@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="environmentGroups">
+            <list>
+              <environmentGroupState>
+                <option name="name" value="Default" />
+              </environmentGroupState>
+            </list>
+          </option>
+          <option name="folders">
+            <list>
+              <folderState>
+                <option name="id" value="61efd23d-e4df-4359-930f-bf14b1288fee" />
+                <option name="name" value="Requests" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="[9, 12, 29, 35, 41, 55, 68, 80]" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="id" value="e809dfc4-a9ee-4e29-a0d0-0dc0cc9109e4" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Create data" />
+                      <option name="sortWeight" value="1000000" />
+                      <option name="url" value="http://localhost:8080/untitled_war/api/v1/try" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="1000000" />
+              </folderState>
+            </list>
+          </option>
+          <option name="id" value="ea3e319d-2552-403f-b05c-9b4fbe769891" />
+          <option name="name" value="WebSorting" />
+          <option name="selectedEnvironmentIds">
+            <map>
+              <entry key="default" />
+            </map>
+          </option>
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="autoSync" value="true" />
+              <option name="folderPath" value="C:\Users\RoseOtukuoTetteh\Documents\Java Labs\untitled\.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="8c7a057c-102f-4bb8-a54e-c21902869402" />
+    <option name="version" value="4" />
+  </component>
+</project>
